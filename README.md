@@ -1,1 +1,3 @@
 # Decodificacao
+
+Esse código foi utilizada para se encontrar padrões atraves de uma criptografia. Foi utlizada em um desafio de uma maratona de programação, na qual era necessario encontrar o complemento de uma sequencia numerica, mascarado por uma criptografia. Essa mascara foi quebrada pela bilioteca hashlib. A biblioteca hashlib do Python é o módulo padrão utilizado para realizar hashing seguro. Em termos simples, ela serve para transformar qualquer bloco de dados (como uma senha ou um arquivo) em uma sequência fixa de caracteres, que funciona como uma "impressão digital" única desses dados.
