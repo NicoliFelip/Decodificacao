@@ -1,6 +1,4 @@
-# Decodificacao
-
-# Desafio de Esteganografia — Maratona de Programação
+# Decodificação - Desafio de Esteganografia — Maratona de Programação
 
 Este projeto foi desenvolvido como parte de uma maratona de programação promovida pela startup Layers Education, em parceria com a IDWall.
 
